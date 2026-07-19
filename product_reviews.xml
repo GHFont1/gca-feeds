@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="http://www.google.com/shopping/reviews/schema/product/2.3/product_reviews.xsd">
+<version>2.3</version>
+<publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
+<reviews>
+<review>
+  <review_id>1251056290</review_id>
+  <reviewer><name is_anonymous="false">Ryan Hoover</name></reviewer>
+  <review_timestamp>2026-07-09T12:23:09+00:00</review_timestamp>
+  <title>Poor service.</title>
+  <content>Never received the item ordered.  Multiple calls and emails went unanswered.  Had to initiate a charge back from my credit card company.  Do not order from these people.</content>
+  <review_url type="group">https://greatcallathletics.com/products/hammer-anger-red-black-bowling-ball</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840315617308</gtin><gtin>840315617292</gtin><gtin>840315617285</gtin><gtin>840315617278</gtin><gtin>840315617261</gtin></gtins><mpns><mpn>60-108261-932</mpn><mpn>60-108261-933</mpn><mpn>60-108261-934</mpn><mpn>60-108261-935</mpn><mpn>60-108261-936</mpn></mpns><brands><brand>Hammer</brand></brands></product_ids>
+    <product_name>Hammer Anger Red Black Bowling Ball</product_name>
+    <product_url>https://greatcallathletics.com/products/hammer-anger-red-black-bowling-ball</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1152057630</review_id>
+  <reviewer><name is_anonymous="false">John Mclaughlin</name></reviewer>
+  <review_timestamp>2026-04-16T10:43:21+00:00</review_timestamp>
+  
+  <content>great product great service will be ordering more from them</content>
+  <review_url type="group">https://greatcallathletics.com/products/genesis-hyper-control-launch-strips-hand-grip-tape-40-count</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>682327957092</gtin></gtins><mpns><mpn>GENHCTRL-S40</mpn></mpns><brands><brand>Genesis</brand></brands></product_ids>
+    <product_name>Genesis Hyper Control Launch Strips Hand Grip Tape 40 Count</product_name>
+    <product_url>https://greatcallathletics.com/products/genesis-hyper-control-launch-strips-hand-grip-tape-40-count</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1077870592</review_id>
+  <reviewer><name is_anonymous="false">Amy Sprawls</name></reviewer>
+  <review_timestamp>2026-02-23T22:26:53+00:00</review_timestamp>
+  
+  <content>I have not received my order yet. It is a week late, and now my so can't even go to work. I called last week several times and never got an answer. I emailed and sent a message through the website and never received a response.</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-usa-900-al-fo-alabama-ahsaa-logo-orange-short-sleeve-soccer-referee-shirt-with-usa-flag</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>'818423018911</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty USA-900-AL-FO Alabama AHSAA Logo Orange Short Sleeve Soccer Referee Shirt With USA Flag</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-usa-900-al-fo-alabama-ahsaa-logo-orange-short-sleeve-soccer-referee-shirt-with-usa-flag</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1065767071</review_id>
+  <reviewer><name is_anonymous="false">MICHAEL ANDERS</name></reviewer>
+  <review_timestamp>2026-02-13T22:30:04+00:00</review_timestamp>
+  
+  <content>Product was as advertised. Great fit. Timely arrival. Will use Great Call Athletics  again.</content>
+  <review_url type="group">https://greatcallathletics.com/products/dexter-mens-wide-width-sst-8-power-frame-boa-bowling-shoes</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>091502104358</gtin><gtin>091502104372</gtin><gtin>091502104396</gtin><gtin>091502104419</gtin><gtin>091502104433</gtin><gtin>091502104457</gtin><gtin>091502104471</gtin><gtin>091502104495</gtin><gtin>091502104518</gtin><gtin>091502104532</gtin></gtins><mpns><mpn>DP0001827W_7</mpn><mpn>DP0001827W_7.5</mpn><mpn>DP0001827W_8</mpn><mpn>DP0001827W_8.5</mpn><mpn>DP0001827W_9</mpn><mpn>DP0001827W_9.5</mpn><mpn>DP0001827W_10</mpn><mpn>DP0001827W_10.5</mpn><mpn>DP0001827W_11</mpn><mpn>DP0001827W_11.5</mpn></mpns><brands><brand>Dexter</brand></brands></product_ids>
+    <product_name>Dexter Mens Wide Width SST 8 Power Frame Boa Bowling Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/dexter-mens-wide-width-sst-8-power-frame-boa-bowling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1060485816</review_id>
+  <reviewer><name is_anonymous="false">Jaskaran Brar</name></reviewer>
+  <review_timestamp>2026-02-09T20:08:48+00:00</review_timestamp>
+  
+  <content>Good</content>
+  <review_url type="group">https://greatcallathletics.com/products/buddy-lee-aero-speed-jump-rope-silver</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>632191000127</gtin></gtins><mpns><mpn>BL-AERO-SPEED-SLV-100</mpn></mpns><brands><brand>Buddy Lee</brand></brands></product_ids>
+    <product_name>Buddy Lee Aero Speed Jump Rope Silver Pro Training Rope</product_name>
+    <product_url>https://greatcallathletics.com/products/buddy-lee-aero-speed-jump-rope-silver</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1059705408</review_id>
+  <reviewer><name is_anonymous="false">Dawson Haider</name></reviewer>
+  <review_timestamp>2026-02-09T02:06:45+00:00</review_timestamp>
+  <title>Scam</title>
+  <content>Ordered shoes, label created then nothing. Probably a scam. No response to emails.</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-combat-speed-4-red-white-black-wrestling-shoes</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>197620319220</gtin><gtin>197620319244</gtin><gtin>197620315543</gtin><gtin>197620319268</gtin><gtin>197620319237</gtin><gtin>197620319251</gtin><gtin>197620319374</gtin><gtin>197620319336</gtin><gtin>197620319275</gtin><gtin>197620315567</gtin></gtins><mpns><mpn>JQ4986</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas Combat Speed 4 Red/White/Black Wrestling Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-combat-speed-4-red-white-black-wrestling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1044129366</review_id>
+  <reviewer><name is_anonymous="false">Michael Howard</name></reviewer>
+  <review_timestamp>2026-01-22T01:27:56+00:00</review_timestamp>
+  <title>Wrestling shoes</title>
+  <content>They were for my 5yr old son. The fit is good. He moves around good in them. And he says they are comfortable. Thank you. Are next pair will come from this site</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-aq3325-hvc-2-black-wrestling-shoes</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>889138546945</gtin><gtin>889138546907</gtin><gtin>889138547010</gtin><gtin>889138546983</gtin><gtin>889138546914</gtin><gtin>889138546877</gtin><gtin>889138547065</gtin><gtin>889138547027</gtin><gtin>889138546990</gtin><gtin>889138547058</gtin></gtins><mpns><mpn>'810026820298</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas Wrestling HVC 2 Black/White Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-aq3325-hvc-2-black-wrestling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1034975993</review_id>
+  <reviewer><name is_anonymous="false">Christopher Brookins</name></reviewer>
+  <review_timestamp>2026-01-12T02:34:31+00:00</review_timestamp>
+  <title>Poor customer service order has not been shipped</title>
+  <content>My order has not been fulfilled nor has it shipped I have called and emailed with only one response and zero follow up very disappointing as my son has been waiting for his order to arrive and missed Christmas</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-aq3325-hvc-2-black-wrestling-shoes</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>889138546945</gtin><gtin>889138546907</gtin><gtin>889138547010</gtin><gtin>889138546983</gtin><gtin>889138546914</gtin><gtin>889138546877</gtin><gtin>889138547065</gtin><gtin>889138547027</gtin><gtin>889138546990</gtin><gtin>889138547058</gtin></gtins><mpns><mpn>'810026820298</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas Wrestling HVC 2 Black/White Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-aq3325-hvc-2-black-wrestling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1033780217</review_id>
+  <reviewer><name is_anonymous="false">Kevin Mason</name></reviewer>
+  <review_timestamp>2026-01-10T07:15:38+00:00</review_timestamp>
+  
+  <content>Smitty | BKS-220 | Black Official's Jacket</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-bks-220-black-officials-jacket-basketball-wrestling-best-value</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>BKS-220_Small</mpn><mpn>BKS-220_Medium</mpn><mpn>BKS-220_Large</mpn><mpn>BKS-220_XL</mpn><mpn>BKS-220_2XL</mpn><mpn>BKS-220_3XL</mpn><mpn>BKS-220_4XL</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty BKS-220 Black Official's Jacket</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-bks-220-black-officials-jacket-basketball-wrestling-best-value</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1033328001</review_id>
+  <reviewer><name is_anonymous="false">Julie Smith</name></reviewer>
+  <review_timestamp>2026-01-09T14:40:40+00:00</review_timestamp>
+  <title>Sent wrong item and won’t respond to emails</title>
+  <content>I’ve emailed about this and so has my husband. The wrong item was shipped and I cannot get a return email to address the situation.</content>
+  <review_url type="group">https://greatcallathletics.com/products/neo-tac-renew-it-bowling-ball-polish-6-oz</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>NT63SP32</mpn></mpns><brands><brand>Neo-Tac</brand></brands></product_ids>
+    <product_name>Neo-Tac Hook It SP2000, Bowling Ball Restorer 32 oz</product_name>
+    <product_url>https://greatcallathletics.com/products/neo-tac-renew-it-bowling-ball-polish-6-oz</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1031974079</review_id>
+  <reviewer><name is_anonymous="false">Aaron Landry</name></reviewer>
+  <review_timestamp>2026-01-08T00:55:51+00:00</review_timestamp>
+  <title>Never recieved order</title>
+  <content>Never recieved order</content>
+  <review_url type="group">https://greatcallathletics.com/products/defense-therapeutic-bar-soap-peppermint-4oz</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>016463992127</gtin></gtins><mpns><mpn>DS-BAR-PEPP-4OZ</mpn></mpns><brands><brand>Defense Soap</brand></brands></product_ids>
+    <product_name>Defense Soap Therapeutic Bar Soap 4 oz Peppermint</product_name>
+    <product_url>https://greatcallathletics.com/products/defense-therapeutic-bar-soap-peppermint-4oz</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1028159238</review_id>
+  <reviewer><name is_anonymous="false">Shane DM</name></reviewer>
+  <review_timestamp>2026-01-03T18:41:39+00:00</review_timestamp>
+  
+  <content>Solid and built like a Sherman tank. Sufficient knurling, albeit rather mild. My only gripe is the collar—i wish it was a twist-type instead of this one that requires a tool</content>
+  <review_url type="group">https://greatcallathletics.com/products/ironmind-wrist-reinforcer-wrist-forearm-trainer</review_url>
+  <ratings><overall min="1" max="5">4</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>IRONMIND-WR</mpn></mpns><brands><brand>IronMind</brand></brands></product_ids>
+    <product_name>IronMind Wrist Reinforcer</product_name>
+    <product_url>https://greatcallathletics.com/products/ironmind-wrist-reinforcer-wrist-forearm-trainer</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1024692218</review_id>
+  <reviewer><name is_anonymous="false">Eric Young Chang</name></reviewer>
+  <review_timestamp>2025-12-29T20:52:43+00:00</review_timestamp>
+  <title>No communication</title>
+  <content>ordered a 10-pack of bowling finger inserts, but I received only one single piece. I contacted the company multiple times over the past week to resolve this issue, but they never responded to any of my messages. There is no phone number or customer support available, which makes this even more frustrating. This situation is unacceptable, so I have filed a dispute with my credit card company. Buyers should be cautious.</content>
+  <review_url type="group">https://greatcallathletics.com/products/turbo-quad-ice-bowling-ball-finger-inserts-grip</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>TRB-QD-ICE-1116</mpn><mpn>TRB-QD-ICE-1316</mpn><mpn>TRB-QD-ICE-1932</mpn><mpn>TRB-QD-ICE-2132</mpn><mpn>TRB-QD-ICE-2332</mpn><mpn>TRB-QD-ICE-2532</mpn><mpn>TRB-QD-ICE-2732</mpn><mpn>TRB-QD-ICE-2932</mpn><mpn>TRB-QD-ICE-34</mpn><mpn>TRB-QD-ICE-3964</mpn></mpns><brands><brand>Turbo</brand></brands></product_ids>
+    <product_name>Turbo Quad Ice Bowling Ball Finger Insert</product_name>
+    <product_url>https://greatcallathletics.com/products/turbo-quad-ice-bowling-ball-finger-inserts-grip</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1024072126</review_id>
+  <reviewer><name is_anonymous="false">Aaron Landry</name></reviewer>
+  <review_timestamp>2025-12-29T01:31:50+00:00</review_timestamp>
+  <title>Order was not fulfilled</title>
+  <content>Missing more than half my order</content>
+  <review_url type="group">https://greatcallathletics.com/products/scraplife-defender-kneepad-wrestling-protection</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>643307974461</gtin><gtin>643307974478</gtin><gtin>643307974485</gtin><gtin>643307974492</gtin></gtins><mpns><mpn>KP0302S-BLK-4000</mpn><mpn>KP0302L-BLK-4001</mpn><mpn>KP0302S-WHT-4002</mpn><mpn>KP0302L-WHT-4003</mpn></mpns><brands><brand>ScrapLife</brand></brands></product_ids>
+    <product_name>ScrapLife Defender Kneepad Wrestling Impact Protection Gear</product_name>
+    <product_url>https://greatcallathletics.com/products/scraplife-defender-kneepad-wrestling-protection</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1023001436</review_id>
+  <reviewer><name is_anonymous="false">Richelle Steele</name></reviewer>
+  <review_timestamp>2025-12-26T22:20:42+00:00</review_timestamp>
+  <title>Poor response</title>
+  <content>Item was too small  attempted to reach out via phone and email and no response. Lost out on money. Frustrating</content>
+  <review_url type="group">https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246929716</gtin><gtin>840246929723</gtin><gtin>840246929730</gtin><gtin>840246929747</gtin><gtin>840246929754</gtin><gtin>840246929761</gtin><gtin>840246929778</gtin><gtin>840246929785</gtin></gtins><mpns><mpn>R-JBA2</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis Jordan Burroughs Alpha 2.0 Adult Wrestling Shoes - World Wide</product_name>
+    <product_url>https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1018259420</review_id>
+  <reviewer><name is_anonymous="false">Anthony Dohring</name></reviewer>
+  <review_timestamp>2025-12-19T11:25:13+00:00</review_timestamp>
+  <title>Do Not Order From This Company!</title>
+  <content>Never received the Concentrate Spray Fill Formula. Called and emailed them multiple times and they never responded!!</content>
+  <review_url type="group">https://greatcallathletics.com/products/defense-equipment-spray-antimicrobial-cleaner</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>7426980807171</gtin></gtins><mpns><mpn>DFN-MCB-CL</mpn></mpns><brands><brand>Defense Soap</brand></brands></product_ids>
+    <product_name>Defense Equipment Spray Antimicrobial Cleaner</product_name>
+    <product_url>https://greatcallathletics.com/products/defense-equipment-spray-antimicrobial-cleaner</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1007509746</review_id>
+  <reviewer><name is_anonymous="false">Anthony Dohring</name></reviewer>
+  <review_timestamp>2025-12-08T20:23:02+00:00</review_timestamp>
+  <title>Received Damaged</title>
+  <content>I emailed and called to report the damage and no one has responded yet.</content>
+  <review_url type="group">https://greatcallathletics.com/products/kennedy-original-athletic-skin-creme-for-athletes-18-oz</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>681225000183</gtin></gtins><mpns><mpn>KOASC18oz</mpn></mpns><brands><brand>Kennedy Industries</brand></brands></product_ids>
+    <product_name>Kennedy Original Athletic Skin Creme For Athletes 18 oz</product_name>
+    <product_url>https://greatcallathletics.com/products/kennedy-original-athletic-skin-creme-for-athletes-18-oz</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1003951553</review_id>
+  <reviewer><name is_anonymous="false">Justin Hilbert</name></reviewer>
+  <review_timestamp>2025-12-04T14:04:02+00:00</review_timestamp>
+  
+  <content>Just as expected. Great timing with base shipping!</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-usa129cfo-collegiate-cfo-football-referee-cold-weather-long-sleeve</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>USA129CFO_XL_R</mpn><mpn>USA129CFO_Small_R</mpn><mpn>USA129CFO_Medium_R</mpn><mpn>USA129CFO_Large_R</mpn><mpn>USA129CFO_2XL_R</mpn><mpn>USA129CFO_3XL_R</mpn><mpn>USA129CFO_4XL_R</mpn><mpn>USA129CFO_Small_U</mpn><mpn>USA129CFO_Small_H</mpn><mpn>USA129CFO_Small_L</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty USA129CFO Collegiate CFO Football Referee Cold Weather Long Sleeve Shirt</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-usa129cfo-collegiate-cfo-football-referee-cold-weather-long-sleeve</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1002922631</review_id>
+  <reviewer><name is_anonymous="false">Erin Blanchard</name></reviewer>
+  <review_timestamp>2025-12-03T03:26:54+00:00</review_timestamp>
+  
+  <content>Amazing customer service! I will definitely order from this company again.</content>
+  <review_url type="group">https://greatcallathletics.com/products/rudis-ks-infinity-edge-wrestling-shoes-black-gold</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246950192</gtin><gtin>840246950208</gtin><gtin>840246950215</gtin><gtin>840246950239</gtin><gtin>840246950246</gtin><gtin>840246950253</gtin><gtin>840246950260</gtin><gtin>840246950277</gtin><gtin>840246950284</gtin></gtins><mpns><mpn>KSNC1000-AMO-06.5</mpn><mpn>KSNC1000-AMO-07</mpn><mpn>KSNC1000-AMO-07.5</mpn><mpn>KSNC1000-AMO-08.5</mpn><mpn>KSNC1000-AMO-09</mpn><mpn>KSNC1000-AMO-09.5</mpn><mpn>KSNC1000-AMO-10</mpn><mpn>KSNC1000-AMO-10.5</mpn><mpn>KSNC1000-AMO-11</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis KS Infinity Edge Adult Wrestling Shoes - Black</product_name>
+    <product_url>https://greatcallathletics.com/products/rudis-ks-infinity-edge-wrestling-shoes-black-gold</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>997631365</review_id>
+  <reviewer><name is_anonymous="false">Sarah Lister</name></reviewer>
+  <review_timestamp>2025-11-27T02:09:31+00:00</review_timestamp>
+  <title>Perfect shoes</title>
+  <content>These World Wides are just what my kid wanted for this season of wrestling. Great fast delivery and the customer service for an exchange was seamless.</content>
+  <review_url type="group">https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246929716</gtin><gtin>840246929723</gtin><gtin>840246929730</gtin><gtin>840246929747</gtin><gtin>840246929754</gtin><gtin>840246929761</gtin><gtin>840246929778</gtin><gtin>840246929785</gtin></gtins><mpns><mpn>R-JBA2</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis Jordan Burroughs Alpha 2.0 Adult Wrestling Shoes - World Wide</product_name>
+    <product_url>https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>953952664</review_id>
+  <reviewer><name is_anonymous="false">Daniel Kenny</name></reviewer>
+  <review_timestamp>2025-10-04T07:23:11+00:00</review_timestamp>
+  
+  <content>Great product, great fit and delivered in a really good time, extremely happy, thank you!</content>
+  <review_url type="group">https://greatcallathletics.com/products/rudis-ks-infinity-edge-wrestling-shoes-black-gold</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246950192</gtin><gtin>840246950208</gtin><gtin>840246950215</gtin><gtin>840246950239</gtin><gtin>840246950246</gtin><gtin>840246950253</gtin><gtin>840246950260</gtin><gtin>840246950277</gtin><gtin>840246950284</gtin></gtins><mpns><mpn>KSNC1000-AMO-06.5</mpn><mpn>KSNC1000-AMO-07</mpn><mpn>KSNC1000-AMO-07.5</mpn><mpn>KSNC1000-AMO-08.5</mpn><mpn>KSNC1000-AMO-09</mpn><mpn>KSNC1000-AMO-09.5</mpn><mpn>KSNC1000-AMO-10</mpn><mpn>KSNC1000-AMO-10.5</mpn><mpn>KSNC1000-AMO-11</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis KS Infinity Edge Adult Wrestling Shoes - Black</product_name>
+    <product_url>https://greatcallathletics.com/products/rudis-ks-infinity-edge-wrestling-shoes-black-gold</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>951879728</review_id>
+  <reviewer><name is_anonymous="false">Customer</name></reviewer>
+  <review_timestamp>2025-10-01T22:03:10+00:00</review_timestamp>
+  <title>They’re so nice</title>
+  <content>They’re very comfortable and fit me perfectly. Recommended.</content>
+  <review_url type="group">https://greatcallathletics.com/products/kr-strikeforce-maui-sky-blue-women-s-bowling-shoes</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>043014136662</gtin><gtin>043014136679</gtin><gtin>043014136686</gtin><gtin>043014136693</gtin><gtin>043014136709</gtin><gtin>043014136716</gtin><gtin>043014136723</gtin><gtin>043014136730</gtin><gtin>043014136747</gtin><gtin>043014136754</gtin></gtins><mpns><mpn>L-093-050</mpn><mpn>L-093-060</mpn><mpn>L-093-065</mpn><mpn>L-093-070</mpn><mpn>L-093-075</mpn><mpn>L-093-080</mpn><mpn>L-093-085</mpn><mpn>L-093-090</mpn><mpn>L-093-095</mpn><mpn>L-093-100</mpn></mpns><brands><brand>KR Strikeforce</brand></brands></product_ids>
+    <product_name>KR Strikeforce Maui Sky Blue Women’s Bowling Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/kr-strikeforce-maui-sky-blue-women-s-bowling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>946385040</review_id>
+  <reviewer><name is_anonymous="false">Hector Quezada</name></reviewer>
+  <review_timestamp>2025-09-24T15:36:49+00:00</review_timestamp>
+  <title>I didn't got the product &quot;Pre-Shipment, USPS Awaiting Item&quot; since Sep 10</title>
+  <content>I've been waiting for it, and they say they've been &quot;awaiting on the item&quot; I need to know how to move on, I really don't want to make a big deal, but my son's birthday is coming and we still don't have the headgear</content>
+  <review_url type="group">https://greatcallathletics.com/products/classic-wrestling-headgear-maroon-straps</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137731056</gtin><gtin>810137731216</gtin></gtins><mpns><mpn>GCA-CHGA-BKMA</mpn><mpn>332101_VG_MR</mpn><mpn>332101_PK_MR</mpn><mpn>332101_SV_MR</mpn><mpn>332101_RB_MR</mpn><mpn>332101_OR_MR</mpn><mpn>332101_DG_MR</mpn><mpn>GCA-CHGA-MAMA</mpn><mpn>332101_WH_MR</mpn><mpn>332101_NV_MR</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Classic Wrestling Headgear Maroon Straps</product_name>
+    <product_url>https://greatcallathletics.com/products/classic-wrestling-headgear-maroon-straps</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>927751875</review_id>
+  <reviewer><name is_anonymous="false">Darrin DeLaine</name></reviewer>
+  <review_timestamp>2025-09-03T10:05:43+00:00</review_timestamp>
+  
+  <content>Overall it’s okay. A better eraser is definitely needed.</content>
+  <review_url type="group">https://greatcallathletics.com/products/gca-pro-10-pack-referee-pencils-black-sports</review_url>
+  <ratings><overall min="1" max="5">3</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137733272</gtin></gtins><mpns><mpn>344098</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Pro 10 Pack Referee Pencils Black Sports</product_name>
+    <product_url>https://greatcallathletics.com/products/gca-pro-10-pack-referee-pencils-black-sports</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>850790725</review_id>
+  <reviewer><name is_anonymous="false">Bec Kemp</name></reviewer>
+  <review_timestamp>2025-06-05T01:59:26+00:00</review_timestamp>
+  <title>Referee jacket</title>
+  <content>Perfect transaction. Good quality, fair price, and fast shipping. Thank you!</content>
+  <review_url type="group">https://greatcallathletics.com/products/great-call-athletics-reversible-1-lacrosse-football-full-zip-jacket</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137730189</gtin><gtin>810137730196</gtin><gtin>810137730202</gtin><gtin>810137730219</gtin><gtin>810137730226</gtin><gtin>810137730233</gtin><gtin>810137730240</gtin></gtins><mpns><mpn>331148_SM</mpn><mpn>331148_MD</mpn><mpn>331148_LG</mpn><mpn>331148_XL</mpn><mpn>331148_2XL</mpn><mpn>331148_3XL</mpn><mpn>331148_4XL</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Reversible 1&quot; Lacrosse &amp; Football Full Zip Jacket</product_name>
+    <product_url>https://greatcallathletics.com/products/great-call-athletics-reversible-1-lacrosse-football-full-zip-jacket</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>846930040</review_id>
+  <reviewer><name is_anonymous="false">Mike Bucello</name></reviewer>
+  <review_timestamp>2025-05-31T11:59:51+00:00</review_timestamp>
+  
+  <content>Great product and comfortable.</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-acs-563-leather-1-3-4-black-belt-officials-choice</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>ACS-563_30</mpn><mpn>ACS-563_32</mpn><mpn>ACS-563_34</mpn><mpn>ACS-563_36</mpn><mpn>ACS-563_38</mpn><mpn>ACS-563_40</mpn><mpn>ACS-563_42</mpn><mpn>ACS-563_44</mpn><mpn>ACS-563_46</mpn><mpn>ACS-563_48</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty ACS-563 Leather 1 3/4&quot; Black Belt Officials Choice!</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-acs-563-leather-1-3-4-black-belt-officials-choice</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>840632881</review_id>
+  <reviewer><name is_anonymous="false">Haylee Peterpaul</name></reviewer>
+  <review_timestamp>2025-05-22T22:13:01+00:00</review_timestamp>
+  <title>Buyer Beware</title>
+  <content>Needed a return, they wouldn’t respond to calls, text or emails so my money was wasted since they didn’t fit my son. Buyer beware</content>
+  <review_url type="group">https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246929716</gtin><gtin>840246929723</gtin><gtin>840246929730</gtin><gtin>840246929747</gtin><gtin>840246929754</gtin><gtin>840246929761</gtin><gtin>840246929778</gtin><gtin>840246929785</gtin></gtins><mpns><mpn>R-JBA2</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis Jordan Burroughs Alpha 2.0 Adult Wrestling Shoes - World Wide</product_name>
+    <product_url>https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>813859898</review_id>
+  <reviewer><name is_anonymous="false">Billy Brown</name></reviewer>
+  <review_timestamp>2025-04-23T11:17:17+00:00</review_timestamp>
+  
+  <content>GCA Pro Lacrosse Ball Stopper 3 Pack</content>
+  <review_url type="group">https://greatcallathletics.com/products/gca-pro-lacrosse-ball-stopper-3-pack</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137733050</gtin></gtins><mpns><mpn>403445</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Pro Lacrosse Ball Stopper 3 Pack</product_name>
+    <product_url>https://greatcallathletics.com/products/gca-pro-lacrosse-ball-stopper-3-pack</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>805751632</review_id>
+  <reviewer><name is_anonymous="false">Carl Dyer</name></reviewer>
+  <review_timestamp>2025-04-14T03:40:01+00:00</review_timestamp>
+  <title>Good</title>
+  <content>I like cards</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-acs-536-throw-away-game-cards-set-of-25-officials-choice</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>ACS-536_Default Title</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty ACS-536 Throw Away Game Cards Set of 25 2-sided Official's Choice!</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-acs-536-throw-away-game-cards-set-of-25-officials-choice</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>796674603</review_id>
+  <reviewer><name is_anonymous="false">Ximena Alvarez</name></reviewer>
+  <review_timestamp>2025-04-02T18:36:12+00:00</review_timestamp>
+  <title>IT DID NOT FIT HIM</title>
+  <content>WE NEED TO CHANGE THE PRODUCT</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-as103r-reversible-wrestling-singlet-freestyle</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>818423010151</gtin><gtin>818423010687</gtin><gtin>818423010694</gtin><gtin>818423010717</gtin><gtin>818423010724</gtin><gtin>818423010731</gtin><gtin>818423010748</gtin><gtin>818423010755</gtin><gtin>818423010762</gtin><gtin>818423010779</gtin></gtins><mpns><mpn>'818423010151</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas aS103r Reversible Wrestling Singlet Freestyle</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-as103r-reversible-wrestling-singlet-freestyle</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>784557209</review_id>
+  <reviewer><name is_anonymous="false">Daniel Jang</name></reviewer>
+  <review_timestamp>2025-03-19T14:28:23+00:00</review_timestamp>
+  
+  <content>Great product, minty smell is simple and fresh. Not perfumey.</content>
+  <review_url type="group">https://greatcallathletics.com/products/defense-therapeutic-bar-soap-peppermint-4oz</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>016463992127</gtin></gtins><mpns><mpn>DS-BAR-PEPP-4OZ</mpn></mpns><brands><brand>Defense Soap</brand></brands></product_ids>
+    <product_name>Defense Soap Therapeutic Bar Soap 4 oz Peppermint</product_name>
+    <product_url>https://greatcallathletics.com/products/defense-therapeutic-bar-soap-peppermint-4oz</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>782841078</review_id>
+  <reviewer><name is_anonymous="false">James Fargo</name></reviewer>
+  <review_timestamp>2025-03-17T22:11:17+00:00</review_timestamp>
+  <title>Never received order</title>
+  <content>Never received item ordered</content>
+  <review_url type="group">https://greatcallathletics.com/products/great-call-athletics-reversible-1-lacrosse-football-full-zip-jacket</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137730189</gtin><gtin>810137730196</gtin><gtin>810137730202</gtin><gtin>810137730219</gtin><gtin>810137730226</gtin><gtin>810137730233</gtin><gtin>810137730240</gtin></gtins><mpns><mpn>331148_SM</mpn><mpn>331148_MD</mpn><mpn>331148_LG</mpn><mpn>331148_XL</mpn><mpn>331148_2XL</mpn><mpn>331148_3XL</mpn><mpn>331148_4XL</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Reversible 1&quot; Lacrosse &amp; Football Full Zip Jacket</product_name>
+    <product_url>https://greatcallathletics.com/products/great-call-athletics-reversible-1-lacrosse-football-full-zip-jacket</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>752770950</review_id>
+  <reviewer><name is_anonymous="false">Nikki Wall</name></reviewer>
+  <review_timestamp>2025-02-05T04:05:19+00:00</review_timestamp>
+  <title>3 weeks and counting for order.....</title>
+  <content>I have sent two emails about a still to be shipped order after 3 weeks. Still haven't received any response.</content>
+  <review_url type="group">https://greatcallathletics.com/products/rudis-ninety-5-classic-wrestling-shoes-pink-sky</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246952189</gtin><gtin>840246952196</gtin><gtin>840246952202</gtin><gtin>840246952219</gtin><gtin>840246952226</gtin><gtin>840246952233</gtin><gtin>840246952240</gtin><gtin>840246952257</gtin><gtin>840246952264</gtin></gtins><mpns><mpn>RUDNC1004-PSK-09</mpn><mpn>RUDNC1004-PSK-09.5</mpn><mpn>RUDNC1004-PSK-10</mpn><mpn>RUDNC1004-PSK-10.5</mpn><mpn>RUDNC1004-PSK-11</mpn><mpn>RUDNC1004-PSK-11.5</mpn><mpn>RUDNC1004-PSK-12</mpn><mpn>RUDNC1004-PSK-13</mpn><mpn>RUDNC1004-PSK-14</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis Ninety-5 Classic Adult Wrestling Shoes - Pink Sky</product_name>
+    <product_url>https://greatcallathletics.com/products/rudis-ninety-5-classic-wrestling-shoes-pink-sky</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>730633925</review_id>
+  <reviewer><name is_anonymous="false">Cory Weninger</name></reviewer>
+  <review_timestamp>2025-01-06T05:25:46+00:00</review_timestamp>
+  
+  <content>Rudis Jordan Burroughs Alpha 2.0 Adult Wrestling Shoes - World Wide</content>
+  <review_url type="group">https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840246929716</gtin><gtin>840246929723</gtin><gtin>840246929730</gtin><gtin>840246929747</gtin><gtin>840246929754</gtin><gtin>840246929761</gtin><gtin>840246929778</gtin><gtin>840246929785</gtin></gtins><mpns><mpn>R-JBA2</mpn></mpns><brands><brand>Rudis</brand></brands></product_ids>
+    <product_name>Rudis Jordan Burroughs Alpha 2.0 Adult Wrestling Shoes - World Wide</product_name>
+    <product_url>https://greatcallathletics.com/products/jordan-burroughs-alpha-2-0-adult-wrestling-shoes-world-wide-navy</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>728476650</review_id>
+  <reviewer><name is_anonymous="false">Brenda Boncore</name></reviewer>
+  <review_timestamp>2025-01-02T16:29:16+00:00</review_timestamp>
+  <title>Not in stock</title>
+  <content>Ordered/paid only to find out the inventory online was wrong. Cancelled on Xmas eve. 
+
+Still no refund.</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-hp6870-hvc-2-black-charcoal-pink-wrestling-shoes</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>196464295547</gtin><gtin>196464295028</gtin><gtin>196464295523</gtin><gtin>196464294984</gtin><gtin>196464294977</gtin><gtin>196464294991</gtin><gtin>196464294946</gtin><gtin>196464294939</gtin><gtin>196464294953</gtin><gtin>196464294922</gtin></gtins><mpns><mpn>'810026820298</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas HP6870 HVC 2 Black/Charcoal/Pink Wrestling Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-hp6870-hvc-2-black-charcoal-pink-wrestling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>716662905</review_id>
+  <reviewer><name is_anonymous="false">Julia Cox</name></reviewer>
+  <review_timestamp>2024-12-16T01:32:18+00:00</review_timestamp>
+  
+  <content>Classic Wrestling Headgear White Straps</content>
+  <review_url type="group">https://greatcallathletics.com/products/classic-wrestling-headgear-white-straps</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137730714</gtin><gtin>810137730837</gtin><gtin>810137730776</gtin><gtin>810137730813</gtin><gtin>810137730806</gtin><gtin>810137730769</gtin><gtin>810137730721</gtin><gtin>810137730738</gtin><gtin>810137730844</gtin><gtin>810137730745</gtin></gtins><mpns><mpn>GCA-CHGA-BKWH</mpn><mpn>GCA-CHGA-VGWH</mpn><mpn>GCA-CHGA-PIWH</mpn><mpn>GCA-CHGA-SIWH</mpn><mpn>GCA-CHGA-RBWH</mpn><mpn>GCA-CHGA-ORWH</mpn><mpn>GCA-CHGA-DGWH</mpn><mpn>GCA-CHGA-MAWH</mpn><mpn>GCA-CHGA-WHWH</mpn><mpn>GCA-CHGA-NAWH</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Classic Wrestling Headgear White Straps</product_name>
+    <product_url>https://greatcallathletics.com/products/classic-wrestling-headgear-white-straps</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>715313393</review_id>
+  <reviewer><name is_anonymous="false">Oscar Garcia Garcia</name></reviewer>
+  <review_timestamp>2024-12-13T16:26:17+00:00</review_timestamp>
+  <title>Great value, quality, highly recommend this handle</title>
+  <content>Fast shipment, great value, quality. A+++ service. I highly recommend purchasing this product.</content>
+  <review_url type="group">https://greatcallathletics.com/products/gca-titan-twist-double-handle-revolving-deadlift-handle</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>550122_FRAME</mpn><mpn>550122_PAWN</mpn><mpn>550122_KNIGHT</mpn><mpn>550122_BISHOP</mpn><mpn>550122_ROOK</mpn><mpn>550122_KING</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Titan Twist Double Handle Revolving Deadlift Handle</product_name>
+    <product_url>https://greatcallathletics.com/products/gca-titan-twist-double-handle-revolving-deadlift-handle</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>708134264</review_id>
+  <reviewer><name is_anonymous="false">Jenelle May</name></reviewer>
+  <review_timestamp>2024-12-04T02:26:44+00:00</review_timestamp>
+  <title>Broke</title>
+  <content>Broke on first use</content>
+  <review_url type="group">https://greatcallathletics.com/products/cliff-keen-wrestling-headgear-chin-strap-cup-e58-black-red-blue-gold-white-csm</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>600096002928</gtin><gtin>600096112979</gtin><gtin>600096165630</gtin><gtin>600096165647</gtin><gtin>600096165661</gtin><gtin>600096165654</gtin></gtins><mpns><mpn>CSM</mpn><mpn>CSM-BK</mpn><mpn>CSM-LG</mpn><mpn>CSM-NY</mpn><mpn>CSM-SC</mpn><mpn>CSM-RB</mpn></mpns><brands><brand>Cliff Keen</brand></brands></product_ids>
+    <product_name>Cliff Keen CSM Wrestling Headgear Chin Strap Cup</product_name>
+    <product_url>https://greatcallathletics.com/products/cliff-keen-wrestling-headgear-chin-strap-cup-e58-black-red-blue-gold-white-csm</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>705240537</review_id>
+  <reviewer><name is_anonymous="false">Jenelle May</name></reviewer>
+  <review_timestamp>2024-11-29T01:07:58+00:00</review_timestamp>
+  
+  <content>Strap button on chin broke first use</content>
+  <review_url type="group">https://greatcallathletics.com/products/classic-wrestling-headgear-black-straps</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137730851</gtin><gtin>810137730974</gtin><gtin>810137730868</gtin><gtin>810137730875</gtin><gtin>810137730905</gtin><gtin>810137730950</gtin><gtin>810137730912</gtin><gtin>810137730936</gtin><gtin>810137730882</gtin><gtin>810137730943</gtin></gtins><mpns><mpn>GCA-CHGA-BKBK</mpn><mpn>GCA-CHGA-VGBK</mpn><mpn>GCA-CHGA-PIBK</mpn><mpn>GCA-CHGA-SIBK</mpn><mpn>GCA-CHGA-RBBK</mpn><mpn>GCA-CHGA-ORBK</mpn><mpn>GCA-CHGA-DGBK</mpn><mpn>GCA-CHGA-MABK</mpn><mpn>GCA-CHGA-WHBK</mpn><mpn>GCA-CHGA-NABK</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Classic Wrestling Headgear Black Straps</product_name>
+    <product_url>https://greatcallathletics.com/products/classic-wrestling-headgear-black-straps</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>700282832</review_id>
+  <reviewer><name is_anonymous="false">stuart chance</name></reviewer>
+  <review_timestamp>2024-11-22T01:41:48+00:00</review_timestamp>
+  <title>Still waiting</title>
+  <content>I would love to give a review, but I have not received this product yet. It’s been a couple of weeks. I would’ve thought I would’ve had it by now.</content>
+  <review_url type="group">https://greatcallathletics.com/products/professional-referee-hat-poly-spandex-flex-fit</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>195893704965</gtin><gtin>195893716180</gtin></gtins><mpns><mpn>872246_BK_SM</mpn><mpn>872246_BK_LXL</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Professional Referee Football Hat Poly Spandex Flex Fit</product_name>
+    <product_url>https://greatcallathletics.com/products/professional-referee-hat-poly-spandex-flex-fit</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>679778167</review_id>
+  <reviewer><name is_anonymous="false">Tim Granger</name></reviewer>
+  <review_timestamp>2024-10-21T16:06:30+00:00</review_timestamp>
+  
+  <content>ScrapLife Wrestling | Defender Kneepad</content>
+  <review_url type="group">https://greatcallathletics.com/products/scraplife-defender-kneepad-wrestling-protection</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>643307974461</gtin><gtin>643307974478</gtin><gtin>643307974485</gtin><gtin>643307974492</gtin></gtins><mpns><mpn>KP0302S-BLK-4000</mpn><mpn>KP0302L-BLK-4001</mpn><mpn>KP0302S-WHT-4002</mpn><mpn>KP0302L-WHT-4003</mpn></mpns><brands><brand>ScrapLife</brand></brands></product_ids>
+    <product_name>ScrapLife Defender Kneepad Wrestling Impact Protection Gear</product_name>
+    <product_url>https://greatcallathletics.com/products/scraplife-defender-kneepad-wrestling-protection</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>669485071</review_id>
+  <reviewer><name is_anonymous="false">Kasey Cornia</name></reviewer>
+  <review_timestamp>2024-10-08T15:10:36+00:00</review_timestamp>
+  
+  <content>Smitty | USA-109 | Football Performance Mesh Shirt w/ Sublimated Flag | Made in USA | 2-1/4&quot; Stripes | NFHS Approved</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-usa-109-football-short-sleeve-shirt</review_url>
+  <ratings><overall min="1" max="5">4</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>USA-109_Small</mpn><mpn>USA-109_Medium</mpn><mpn>USA-109_Large</mpn><mpn>USA-109_XL</mpn><mpn>USA-109_2XL</mpn><mpn>USA-109_3XL</mpn><mpn>USA-109_4XL</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty USA-109 Football Performance Mesh Shirt w/ Sublimated Flag Made in USA 2-1/4&quot; Stripes NFHS Approved</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-usa-109-football-short-sleeve-shirt</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>622712821</review_id>
+  <reviewer><name is_anonymous="false">Matt Goda</name></reviewer>
+  <review_timestamp>2024-07-22T22:29:19+00:00</review_timestamp>
+  <title>Great Shirt by Smitty</title>
+  <content>I prefer to get a new short sleeve officials jersey before every season.  Smitty does not disappoint.  Ordering with Great Call Athletics was easy and shipping was quick.  Received by shirt in 3 days and I'm on the West Coast.</content>
+  <review_url type="group">https://greatcallathletics.com/products/usa-109-football-performance-mesh-short-sleeve-shirt-made-in-usa-2-1-4-stripes-nfhs-approved</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>USA-109-607_Small</mpn><mpn>USA-109-607_Medium</mpn><mpn>USA-109-607_Large</mpn><mpn>USA-109-607_XL</mpn><mpn>USA-109-607_2XL</mpn><mpn>USA-109-607_3XL</mpn><mpn>USA-109-607_4XL</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty USA-109-607 Body Flex Football Short Sleeve Shirt w/ Sublimated Flag Made in USA 2-1/4&quot; Stripes</product_name>
+    <product_url>https://greatcallathletics.com/products/usa-109-football-performance-mesh-short-sleeve-shirt-made-in-usa-2-1-4-stripes-nfhs-approved</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>570099794</review_id>
+  <reviewer><name is_anonymous="false">Susan Wright Dengler</name></reviewer>
+  <review_timestamp>2024-04-19T15:32:33+00:00</review_timestamp>
+  <title>Need Headgear in Every Color</title>
+  <content>The classing wrestling headgear with varsity red straps was a much needed version to the collection; it perfectly matches our club singlets! High quality, easy to adjust, and worth the money!</content>
+  <review_url type="group">https://greatcallathletics.com/products/classic-wrestling-headgear-varsity-red-straps</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137731018</gtin><gtin>810137731131</gtin><gtin>810137731148</gtin></gtins><mpns><mpn>GCA-CHGA-BKVR</mpn><mpn>332101_VG_VR</mpn><mpn>332101_PK_VR</mpn><mpn>332101_SV_VR</mpn><mpn>332101_RB_VR</mpn><mpn>332101_OR_VR</mpn><mpn>332101_DG_VR</mpn><mpn>332101_MR_VR</mpn><mpn>GCA-CHGA-WHVR</mpn><mpn>332101_NV_VR</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Classic Wrestling Headgear Varsity Red Straps</product_name>
+    <product_url>https://greatcallathletics.com/products/classic-wrestling-headgear-varsity-red-straps</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>554257093</review_id>
+  <reviewer><name is_anonymous="false">Thi Van Ausdal</name></reviewer>
+  <review_timestamp>2024-03-26T03:08:40+00:00</review_timestamp>
+  <title>Balls shipped on time and worked great!</title>
+  <content>Our local rec 18+ league went up to D1-HS balls this year and I found Great Call Athletics with solid pricing and prompt delivery. I accidentally ordered the wrong model at first but I was able to get it fixed, they sent an updated invoice, I paid online and the correct model was shipped to me right on time for Opening Day for our guys.
+
+Our teams played with them last weekend and we loved these baseballs. I am very happy with the customer service, and help fixing my mistake in the order.</content>
+  <review_url type="group">https://greatcallathletics.com/products/diamond-dol-a-hs-nfhs-nocsae-high-school-baseballs-1-dozen</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>039403111525</gtin></gtins><mpns><mpn>DOL-A HS</mpn></mpns><brands><brand>Diamond Sports</brand></brands></product_ids>
+    <product_name>Diamond DOL-A HS NFHS NOCSAE High School Baseballs, 1 Dozen</product_name>
+    <product_url>https://greatcallathletics.com/products/diamond-dol-a-hs-nfhs-nocsae-high-school-baseballs-1-dozen</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>546916416</review_id>
+  <reviewer><name is_anonymous="false">Sébastien Louvel</name></reviewer>
+  <review_timestamp>2024-03-12T13:02:26+00:00</review_timestamp>
+  
+  <content>IronMind | Little Big Horn</content>
+  <review_url type="group">https://greatcallathletics.com/products/ironmind-little-big-horn-grip-trainer</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>IM-LBH-001</mpn></mpns><brands><brand>IronMind</brand></brands></product_ids>
+    <product_name>IronMind Little Big Horn</product_name>
+    <product_url>https://greatcallathletics.com/products/ironmind-little-big-horn-grip-trainer</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>516298007</review_id>
+  <reviewer><name is_anonymous="false">Don Starnes</name></reviewer>
+  <review_timestamp>2024-01-17T12:53:09+00:00</review_timestamp>
+  <title>Very nice purchase!</title>
+  <content>Pants look and fit great. I would strongly recommend these pants. Not 100% wrinkle free but pretty darn close. Love the look and the feel. Price is worth the great quality.
+I will definitely be buying another pair.</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-bks-291-new-tapered-fit-4-way-stretch-pleated-officials-pants-w-slash-pockets</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>BKS-291_28</mpn><mpn>BKS-291_29</mpn><mpn>BKS-291_30</mpn><mpn>BKS-291_31</mpn><mpn>BKS-291_32</mpn><mpn>BKS-291_33</mpn><mpn>BKS-291_34</mpn><mpn>BKS-291_35</mpn><mpn>BKS-291_36</mpn><mpn>BKS-291_37</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty BKS-291 New Tapered Fit 4-Way Stretch Pleated Referee Pants w/ Slash Pockets Basketball Wrestling</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-bks-291-new-tapered-fit-4-way-stretch-pleated-officials-pants-w-slash-pockets</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>511974235</review_id>
+  <reviewer><name is_anonymous="false">Tony Morales</name></reviewer>
+  <review_timestamp>2024-01-11T21:24:55+00:00</review_timestamp>
+  <title>Adidas Headgear.</title>
+  <content>Great Customer Service.  Benny assisted me through my Shipping process, very attentive, and quick to respond.  I would recommend this Company for any Sports needs.</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-ae100-response-wrestling-headgear-choice-of-color-wrestlers-choice</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>818423010007</gtin><gtin>818423010014</gtin><gtin>818423010021</gtin><gtin>818423010038</gtin><gtin>818423010045</gtin><gtin>818423010052</gtin><gtin>818423010069</gtin><gtin>818423010076</gtin><gtin>818423010083</gtin><gtin>818423010090</gtin></gtins><mpns><mpn>'818423018232</mpn><mpn>aE100-Pink/White</mpn><mpn>aE100c-Pink/Blk</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas aE100 Response Wrestling Headgear</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-ae100-response-wrestling-headgear-choice-of-color-wrestlers-choice</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>509241706</review_id>
+  <reviewer><name is_anonymous="false">Avery Horning</name></reviewer>
+  <review_timestamp>2024-01-05T21:50:46+00:00</review_timestamp>
+  <title>Chin strap snap came apart but….</title>
+  <content>Used for one single day tournament and the snap on the chin strap came apart.
+
+After a few days of waiting we heard directly from the company and they sent us a new strap express mail for our next tournament.  Got follow up texts to make sure it arrived and was holding up.
+
+Would recommend based upon the new improved product and the great (but slightly delayed) customer service.</content>
+  <review_url type="group">https://greatcallathletics.com/products/classic-wrestling-headgear-powder-blue-straps</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137731100</gtin><gtin>810137731285</gtin></gtins><mpns><mpn>GCA-CHGA-BKPB</mpn><mpn>GCA-CHGA-PBPB</mpn><mpn>332101_VG_PB</mpn><mpn>332101_PK_PB</mpn><mpn>332101_SV_PB</mpn><mpn>332101_RB_PB</mpn><mpn>332101_OR_PB</mpn><mpn>332101_DG_PB</mpn><mpn>332101_MR_PB</mpn><mpn>332101_WH_PB</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Classic Wrestling Headgear Powder Blue Straps</product_name>
+    <product_url>https://greatcallathletics.com/products/classic-wrestling-headgear-powder-blue-straps</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>481155827</review_id>
+  <reviewer><name is_anonymous="false">Megan Nichols</name></reviewer>
+  <review_timestamp>2023-09-01T16:42:21+00:00</review_timestamp>
+  
+  <content>Arrived quick!</content>
+  <review_url type="group">https://greatcallathletics.com/products/adidas-hp6870-hvc-2-black-charcoal-pink-wrestling-shoes</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>196464295547</gtin><gtin>196464295028</gtin><gtin>196464295523</gtin><gtin>196464294984</gtin><gtin>196464294977</gtin><gtin>196464294991</gtin><gtin>196464294946</gtin><gtin>196464294939</gtin><gtin>196464294953</gtin><gtin>196464294922</gtin></gtins><mpns><mpn>'810026820298</mpn></mpns><brands><brand>Adidas</brand></brands></product_ids>
+    <product_name>Adidas HP6870 HVC 2 Black/Charcoal/Pink Wrestling Shoes</product_name>
+    <product_url>https://greatcallathletics.com/products/adidas-hp6870-hvc-2-black-charcoal-pink-wrestling-shoes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>481155825</review_id>
+  <reviewer><name is_anonymous="false">Terry Fry</name></reviewer>
+  <review_timestamp>2023-08-13T19:42:58+00:00</review_timestamp>
+  
+  <content>Not hemmed.. Did my fit..</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-bks-287-4-way-stretch-flat-front-officials-pants-slash-pockets</review_url>
+  <ratings><overall min="1" max="5">3</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>BKS-287_30</mpn><mpn>BKS-287_32</mpn><mpn>BKS-287_34</mpn><mpn>BKS-287_36</mpn><mpn>BKS-287_38</mpn><mpn>BKS-287_40</mpn><mpn>BKS-287_42</mpn><mpn>BKS-287_44</mpn><mpn>BKS-287_46</mpn><mpn>BKS-287_28</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty BKS-287 4-Way Stretch Flat Front Official's Pants Slash Pockets</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-bks-287-4-way-stretch-flat-front-officials-pants-slash-pockets</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>481155824</review_id>
+  <reviewer><name is_anonymous="false">Jonathan Herrera</name></reviewer>
+  <review_timestamp>2023-04-05T18:26:09+00:00</review_timestamp>
+  
+  <content>Shipped quickly, no issues</content>
+  <review_url type="group">https://greatcallathletics.com/products/defense-soap-shower-gel-peppermint-8oz</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>016463992189</gtin></gtins><mpns><mpn>DFN-PPM-GEL</mpn></mpns><brands><brand>Defense Soap</brand></brands></product_ids>
+    <product_name>Defense Soap Shower Gel Peppermint 8 oz</product_name>
+    <product_url>https://greatcallathletics.com/products/defense-soap-shower-gel-peppermint-8oz</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>481155821</review_id>
+  <reviewer><name is_anonymous="false">Tony Sims</name></reviewer>
+  <review_timestamp>2022-11-02T08:41:37+00:00</review_timestamp>
+  
+  <content>Makes my Uniform complete</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-fbs-185-tapered-fit-football-referee-pants-warm-weather-official</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>FBS-185_28</mpn><mpn>FBS-185_30</mpn><mpn>FBS-185_32</mpn><mpn>FBS-185_34</mpn><mpn>FBS-185_36</mpn><mpn>FBS-185_38</mpn><mpn>FBS-185_40</mpn><mpn>FBS-185_42</mpn><mpn>FBS-185_44</mpn><mpn>FBS-185_46</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty FBS-185 Tapered Fit Football Referee Pants Warm Weather</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-fbs-185-tapered-fit-football-referee-pants-warm-weather-official</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>481155820</review_id>
+  <reviewer><name is_anonymous="false">Tony Sims</name></reviewer>
+  <review_timestamp>2022-11-02T08:38:05+00:00</review_timestamp>
+  
+  <content>Great addition to my Uniform</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-acs-509-officials-football-throw-down-narrow-skinny-bean-bag-referee</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>ACS-509_White</mpn><mpn>ACS-509_Royal Blue</mpn><mpn>ACS-509_Black</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty ACS-509 Throw Down Narrow Skinny Bean Bag</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-acs-509-officials-football-throw-down-narrow-skinny-bean-bag-referee</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+</reviews>
+</feed>
