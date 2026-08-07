@@ -5,6 +5,22 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1287666475</review_id>
+  <reviewer><name is_anonymous="false">Michael Black</name></reviewer>
+  <review_timestamp>2026-08-07T03:10:55+00:00</review_timestamp>
+  <title>Took forever to arrive</title>
+  <content>Two weeks for a chin strap. Not happy.</content>
+  <review_url type="group">https://greatcallathletics.com/products/obo-helmet-replacement-chin-cup</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>769370001702</gtin></gtins><mpns><mpn>cr170</mpn></mpns><brands><brand>OBO</brand></brands></product_ids>
+    <product_name>OBO Helmet Replacement Chin Cup</product_name>
+    <product_url>https://greatcallathletics.com/products/obo-helmet-replacement-chin-cup</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1272900125</review_id>
   <reviewer><name is_anonymous="false">Cheryl Keslar</name></reviewer>
   <review_timestamp>2026-07-25T22:50:07+00:00</review_timestamp>
