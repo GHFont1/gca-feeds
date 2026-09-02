@@ -5,6 +5,38 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1312462847</review_id>
+  <reviewer><name is_anonymous="false">Nestor Figueredo</name></reviewer>
+  <review_timestamp>2026-08-27T22:48:20+00:00</review_timestamp>
+  <title>Racket bag</title>
+  <content>Perfect</content>
+  <review_url type="group">https://greatcallathletics.com/products/head-tennis-full-size-coverbag</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>726423269809</gtin></gtins><mpns><mpn>288050</mpn></mpns><brands><brand>Head</brand></brands></product_ids>
+    <product_name>Head Tennis Full Size Coverbag</product_name>
+    <product_url>https://greatcallathletics.com/products/head-tennis-full-size-coverbag</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1312223741</review_id>
+  <reviewer><name is_anonymous="false">Stuart Roth</name></reviewer>
+  <review_timestamp>2026-08-27T16:40:23+00:00</review_timestamp>
+  <title>Great stuff !!</title>
+  <content>First soap that properly treated my problem.</content>
+  <review_url type="group">https://greatcallathletics.com/products/defense-antifungal-medicated-bar-soap-case</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>016463992264</gtin></gtins><mpns><mpn>DFN-MED-CSE</mpn></mpns><brands><brand>Defense Soap</brand></brands></product_ids>
+    <product_name>Defense Anti-fungal Medicated Bar Soap with Case</product_name>
+    <product_url>https://greatcallathletics.com/products/defense-antifungal-medicated-bar-soap-case</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1311511915</review_id>
   <reviewer><name is_anonymous="false">Jia Zhao</name></reviewer>
   <review_timestamp>2026-08-27T05:38:17+00:00</review_timestamp>
