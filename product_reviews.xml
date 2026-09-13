@@ -5,6 +5,22 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1330693264</review_id>
+  <reviewer><name is_anonymous="false">Jenny Canotal</name></reviewer>
+  <review_timestamp>2026-09-12T20:35:13+00:00</review_timestamp>
+  
+  <content>amazing headgear</content>
+  <review_url type="group">https://greatcallathletics.com/products/classic-wrestling-headgear-pink-straps</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137731117</gtin><gtin>693634553655</gtin><gtin>810137731278</gtin><gtin>693634553532</gtin><gtin>693634553549</gtin><gtin>693634553556</gtin><gtin>693634553563</gtin><gtin>693634553570</gtin><gtin>693634553587</gtin><gtin>693634553594</gtin></gtins><mpns><mpn>GCA-CHGA-BKPN</mpn><mpn>332101_VG_PK</mpn><mpn>GCA-CHGA-PNPN</mpn><mpn>332101_SV_PK</mpn><mpn>332101_RB_PK</mpn><mpn>332101_OR_PK</mpn><mpn>332101_DG_PK</mpn><mpn>332101_MR_PK</mpn><mpn>332101_WH_PK</mpn><mpn>332101_NV_PK</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Classic Wrestling Headgear Pink Straps</product_name>
+    <product_url>https://greatcallathletics.com/products/classic-wrestling-headgear-pink-straps</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1319659181</review_id>
   <reviewer><name is_anonymous="false">Richard McCarroll</name></reviewer>
   <review_timestamp>2026-09-03T04:25:12+00:00</review_timestamp>
