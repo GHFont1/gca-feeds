@@ -5,6 +5,22 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1351241968</review_id>
+  <reviewer><name is_anonymous="false">NOUREDDINE</name></reviewer>
+  <review_timestamp>2026-09-25T03:33:20+00:00</review_timestamp>
+  <title>Lack of attention</title>
+  <content>I ordered this product (large size); they didn't start shipping until about 12 days later and never answered my emails. When it arrived after 15 days, it was a medium size. They removed any indication of size, but I know from experience it’s medium size. Now I have to ship back! What a waste of money and time!</content>
+  <review_url type="group">https://greatcallathletics.com/products/stripe-pro-soccer-referee-socks-3-pairs-2-white-stripes</review_url>
+  <ratings><overall min="1" max="5">1</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>810137731735</gtin><gtin>810137731759</gtin><gtin>810137731742</gtin></gtins><mpns><mpn>456778_SM</mpn><mpn>456778_LG</mpn><mpn>456778_MD</mpn></mpns><brands><brand>Great Call Athletics</brand></brands></product_ids>
+    <product_name>Great Call Athletics Pro Soccer Referee Socks 3 Pairs 2 White Stripe</product_name>
+    <product_url>https://greatcallathletics.com/products/stripe-pro-soccer-referee-socks-3-pairs-2-white-stripes</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1347937831</review_id>
   <reviewer><name is_anonymous="false">Jennifer Gallagher</name></reviewer>
   <review_timestamp>2026-09-22T19:53:56+00:00</review_timestamp>
@@ -1117,23 +1133,6 @@ Our teams played with them last weekend and we loved these baseballs. I am very 
     <product_ids><mpns><mpn>IM-LBH-001</mpn></mpns><brands><brand>IronMind</brand></brands></product_ids>
     <product_name>IronMind Little Big Horn</product_name>
     <product_url>https://greatcallathletics.com/products/ironmind-little-big-horn-grip-trainer</product_url>
-  </product></products>
-  <is_spam>false</is_spam>
-  <collection_method>unsolicited</collection_method>
-</review>
-<review>
-  <review_id>516298007</review_id>
-  <reviewer><name is_anonymous="false">Don Starnes</name></reviewer>
-  <review_timestamp>2024-01-17T12:53:09+00:00</review_timestamp>
-  <title>Very nice purchase!</title>
-  <content>Pants look and fit great. I would strongly recommend these pants. Not 100% wrinkle free but pretty darn close. Love the look and the feel. Price is worth the great quality.
-I will definitely be buying another pair.</content>
-  <review_url type="group">https://greatcallathletics.com/products/smitty-bks-291-new-tapered-fit-4-way-stretch-pleated-officials-pants-w-slash-pockets</review_url>
-  <ratings><overall min="1" max="5">5</overall></ratings>
-  <products><product>
-    <product_ids><mpns><mpn>BKS-291_28</mpn><mpn>BKS-291_29</mpn><mpn>BKS-291_30</mpn><mpn>BKS-291_31</mpn><mpn>BKS-291_32</mpn><mpn>BKS-291_33</mpn><mpn>BKS-291_34</mpn><mpn>BKS-291_35</mpn><mpn>BKS-291_36</mpn><mpn>BKS-291_37</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
-    <product_name>Smitty BKS-291 New Tapered Fit 4-Way Stretch Pleated Referee Pants w/ Slash Pockets Basketball Wrestling</product_name>
-    <product_url>https://greatcallathletics.com/products/smitty-bks-291-new-tapered-fit-4-way-stretch-pleated-officials-pants-w-slash-pockets</product_url>
   </product></products>
   <is_spam>false</is_spam>
   <collection_method>unsolicited</collection_method>
