@@ -5,6 +5,22 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1358358503</review_id>
+  <reviewer><name is_anonymous="false">Customer</name></reviewer>
+  <review_timestamp>2026-09-30T03:36:34+00:00</review_timestamp>
+  
+  <content>Great ball</content>
+  <review_url type="group">https://greatcallathletics.com/products/ebonite-game-breaker-5-gb5-bowling-ball</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>840315613300</gtin><gtin>840315613294</gtin><gtin>840315613287</gtin><gtin>840315613270</gtin><gtin>840315613263</gtin><gtin>840315613256</gtin><gtin>840315613249</gtin></gtins><mpns><mpn>60-108117-930</mpn><mpn>60-108117-931</mpn><mpn>60-108117-932</mpn><mpn>60-108117-933</mpn><mpn>60-108117-934</mpn><mpn>60-108117-935</mpn><mpn>60-108117-936</mpn></mpns><brands><brand>Ebonite</brand></brands></product_ids>
+    <product_name>Ebonite Game Breaker 5 GB5 Bowling Ball</product_name>
+    <product_url>https://greatcallathletics.com/products/ebonite-game-breaker-5-gb5-bowling-ball</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1356798387</review_id>
   <reviewer><name is_anonymous="false">Jany L. Sabins</name></reviewer>
   <review_timestamp>2026-09-29T01:25:35+00:00</review_timestamp>
@@ -678,7 +694,7 @@ Ron Blevins</content>
   <review_url type="group">https://greatcallathletics.com/products/kennedy-original-athletic-skin-creme-for-athletes-18-oz</review_url>
   <ratings><overall min="1" max="5">1</overall></ratings>
   <products><product>
-    <product_ids><gtins><gtin>681225000183</gtin></gtins><mpns><mpn>KOASC18oz</mpn></mpns><brands><brand>Kennedy Industries</brand></brands></product_ids>
+    <product_ids><gtins><gtin>681225000183</gtin></gtins><mpns><mpn>KSCDL</mpn><mpn>KSCD</mpn></mpns><brands><brand>Kennedy Industries</brand></brands></product_ids>
     <product_name>Kennedy Original Athletic Skin Creme For Athletes 18 oz</product_name>
     <product_url>https://greatcallathletics.com/products/kennedy-original-athletic-skin-creme-for-athletes-18-oz</product_url>
   </product></products>
