@@ -5,6 +5,38 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1369545366</review_id>
+  <reviewer><name is_anonymous="false">Cambrel Callahan</name></reviewer>
+  <review_timestamp>2026-10-09T00:47:06+00:00</review_timestamp>
+  
+  <content>It got here and feels great!</content>
+  <review_url type="group">https://greatcallathletics.com/products/ironmind-little-big-horn-grip-trainer</review_url>
+  <ratings><overall min="1" max="5">4</overall></ratings>
+  <products><product>
+    <product_ids><mpns><mpn>IM-LBH-001</mpn></mpns><brands><brand>IronMind</brand></brands></product_ids>
+    <product_name>IronMind Little Big Horn</product_name>
+    <product_url>https://greatcallathletics.com/products/ironmind-little-big-horn-grip-trainer</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
+  <review_id>1369194568</review_id>
+  <reviewer><name is_anonymous="false">Ulises Cuenca</name></reviewer>
+  <review_timestamp>2026-10-08T15:45:29+00:00</review_timestamp>
+  
+  <content>cool shoe</content>
+  <review_url type="group">https://greatcallathletics.com/products/puma-mclaren-speedcat-mens-sneakers-puma-black-bright-papaya-suede-low-top</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>199259651610</gtin><gtin>199259651559</gtin><gtin>199259651627</gtin><gtin>199259651566</gtin><gtin>199259651634</gtin><gtin>199259651573</gtin><gtin>199259651467</gtin><gtin>199259651641</gtin><gtin>199259651504</gtin><gtin>199259651474</gtin></gtins><brands><brand>NYCMode</brand></brands></product_ids>
+    <product_name>PUMA McLaren Speedcat Mens Sneakers — PUMA Black/Bright Papaya Suede Low-Top</product_name>
+    <product_url>https://greatcallathletics.com/products/puma-mclaren-speedcat-mens-sneakers-puma-black-bright-papaya-suede-low-top</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1366627716</review_id>
   <reviewer><name is_anonymous="false">Joshua Jamieson</name></reviewer>
   <review_timestamp>2026-10-06T20:25:28+00:00</review_timestamp>
