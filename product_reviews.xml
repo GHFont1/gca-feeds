@@ -5,6 +5,22 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
+  <review_id>1370633794</review_id>
+  <reviewer><name is_anonymous="false">Dianna Folkers</name></reviewer>
+  <review_timestamp>2026-10-09T16:29:09+00:00</review_timestamp>
+  
+  <content>Love this brand! love the shirt!!</content>
+  <review_url type="group">https://greatcallathletics.com/products/mizuno-racquet-sports-men-s-shadow-tee</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
+  <products><product>
+    <product_ids><gtins><gtin>889961825316</gtin><gtin>889961825323</gtin><gtin>889961825330</gtin><gtin>889961825347</gtin><gtin>889961825354</gtin><gtin>889961825262</gtin><gtin>889961825279</gtin><gtin>889961825286</gtin><gtin>889961825293</gtin><gtin>889961825309</gtin></gtins><mpns><mpn>650023.9090.04.S</mpn><mpn>650023.9090.05.M</mpn><mpn>650023.9090.06.L</mpn><mpn>650023.9090.07.XL</mpn><mpn>650023.9090.08.XXL</mpn><mpn>650023.5B5B.04.S</mpn><mpn>650023.5B5B.05.M</mpn><mpn>650023.5B5B.06.L</mpn><mpn>650023.5B5B.07.XL</mpn><mpn>650023.5B5B.08.XXL</mpn></mpns><brands><brand>Mizuno</brand></brands></product_ids>
+    <product_name>Mizuno Racquet Sports Men's Shadow Tee</product_name>
+    <product_url>https://greatcallathletics.com/products/mizuno-racquet-sports-men-s-shadow-tee</product_url>
+  </product></products>
+  <is_spam>false</is_spam>
+  <collection_method>unsolicited</collection_method>
+</review>
+<review>
   <review_id>1369545366</review_id>
   <reviewer><name is_anonymous="false">Cambrel Callahan</name></reviewer>
   <review_timestamp>2026-10-09T00:47:06+00:00</review_timestamp>
@@ -1242,7 +1258,7 @@ Our teams played with them last weekend and we loved these baseballs. I am very 
   <review_url type="group">https://greatcallathletics.com/products/diamond-dol-a-hs-nfhs-nocsae-high-school-baseballs-1-dozen</review_url>
   <ratings><overall min="1" max="5">5</overall></ratings>
   <products><product>
-    <product_ids><gtins><gtin>039403111525</gtin></gtins><mpns><mpn>DOL-A HS</mpn></mpns><brands><brand>Diamond Sports</brand></brands></product_ids>
+    <product_ids><gtins><gtin>039403010293</gtin></gtins><mpns><mpn>DOL-A HS</mpn></mpns><brands><brand>Diamond Sports</brand></brands></product_ids>
     <product_name>Diamond DOL-A HS NFHS NOCSAE High School Baseballs, 1 Dozen</product_name>
     <product_url>https://greatcallathletics.com/products/diamond-dol-a-hs-nfhs-nocsae-high-school-baseballs-1-dozen</product_url>
   </product></products>
