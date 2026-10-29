@@ -5,17 +5,17 @@
 <publisher><name>Great Call Athletics</name><favicon>https://greatcallathletics.com/favicon.ico</favicon></publisher>
 <reviews>
 <review>
-  <review_id>1397328410</review_id>
-  <reviewer><name is_anonymous="false">Ryan Nolan</name></reviewer>
-  <review_timestamp>2026-10-28T01:26:57+00:00</review_timestamp>
-  <title>My experience with Great Call Athletics has always been strained.</title>
-  <content>The ball is fine but the company always does some f*ck sh*t by being a middle man with advertised prices and then its possible that they are NOT available at that price, only to still find them selling the same item but at higher price after canceling the first order. Cant get to a person when you call to discuss, and they dont even call you back. I will try my hardest to not buy from them again and I preclude you to watch out for this practice if you decide to choose them as a vendor.</content>
-  <review_url type="group">https://greatcallathletics.com/products/900-global-ember-bowling-ball-1</review_url>
-  <ratings><overall min="1" max="5">1</overall></ratings>
+  <review_id>1398363428</review_id>
+  <reviewer><name is_anonymous="false">Farren Zackery</name></reviewer>
+  <review_timestamp>2026-10-28T20:13:23+00:00</review_timestamp>
+  
+  <content>Smitty FBS-176 Smitty 4-Way Stretch Poly/Spandex Football Pants</content>
+  <review_url type="group">https://greatcallathletics.com/products/smitty-fbs-176-smitty-4-way-stretch-poly-spandex-football-pants-referee</review_url>
+  <ratings><overall min="1" max="5">5</overall></ratings>
   <products><product>
-    <product_ids><gtins><gtin>887970720363</gtin><gtin>887970720394</gtin><gtin>887970720424</gtin><gtin>887970720455</gtin><gtin>887970720486</gtin><gtin>887970720516</gtin><gtin>887970720530</gtin></gtins><mpns><mpn>BBMGMR10</mpn><mpn>BBMGMR11</mpn><mpn>BBMGMR12</mpn><mpn>BBMGMR13</mpn><mpn>BBMGMR14</mpn><mpn>BBMGMR15</mpn><mpn>BBMGMR16</mpn></mpns><brands><brand>900 Global</brand></brands></product_ids>
-    <product_name>900 Global Ember Bowling Ball</product_name>
-    <product_url>https://greatcallathletics.com/products/900-global-ember-bowling-ball-1</product_url>
+    <product_ids><mpns><mpn>FBS-176_30</mpn><mpn>FBS-176_32</mpn><mpn>FBS-176_34</mpn><mpn>FBS-176_36</mpn><mpn>FBS-176_38</mpn><mpn>FBS-176_40</mpn><mpn>FBS-176_42</mpn><mpn>FBS-176_44</mpn><mpn>FBS-176_46</mpn><mpn>FBS-176_48</mpn></mpns><brands><brand>Smitty Officials Apparel</brand></brands></product_ids>
+    <product_name>Smitty FBS-176 Smitty 4-Way Stretch Poly/Spandex Football Pants</product_name>
+    <product_url>https://greatcallathletics.com/products/smitty-fbs-176-smitty-4-way-stretch-poly-spandex-football-pants-referee</product_url>
   </product></products>
   <is_spam>false</is_spam>
   <collection_method>unsolicited</collection_method>
